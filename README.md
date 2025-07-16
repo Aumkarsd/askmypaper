@@ -20,8 +20,8 @@ Built entirely using local models — no API keys or internet needed.
 
 ## 📸 Demo
 
-> _Add a screenshot or GIF here (optional)_  
-> e.g., `demo/demo.gif`
+![AskMyPaper Demo](demo/demo.gif)
+
 
 ---
 
@@ -45,7 +45,7 @@ Built entirely using local models — no API keys or internet needed.
 | Vector Search    | FAISS
 | PDF Parsing      | PyMuPDF
 | UI Framework     | Streamlit
-| OS Tested        | macOS (M1/Intel)
+| OS Tested        | macOS (M4)
 
 ---
 
@@ -91,5 +91,5 @@ streamlit run app.py
 ## 👤 Author
 
 Built by **[Aumkar Devdhar](https://github.com/Aumkarsd)**  
-Final-year B.Tech student at IIT Roorkee  
+Graduate from IIT Roorkee   
 Passionate about AI, LLMs, and practical ML apps
